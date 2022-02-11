@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @jguizzo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m José Guizzo
+- 👀 I’m interested in Python, IoT, Renewable Energies, Linux
+- 🌱 I’m currently learning about Linux, Django
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: joseguizzo@gmail.com
 
-<!---
-jguizzo/jguizzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
